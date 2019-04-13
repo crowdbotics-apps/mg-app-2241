@@ -1,0 +1,3 @@
+rootProject.name = 'mg_app_2241'
+
+include ':app'
